@@ -23,6 +23,11 @@ function Landing() {
             Manage Tasks
           </button>
         </Link>
+        <Link to="/notes">
+          <button style={{ padding: '15px 25px', fontSize: '16px' }}>
+            My Notes
+          </button>
+        </Link>
       </div>
 
       <div style={{ marginTop: '30px' }}>
