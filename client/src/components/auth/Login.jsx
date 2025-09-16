@@ -25,6 +25,7 @@ function Login() {
       console.error(err);
       alert('Error connecting to server');
     }
+    
   };
 
   const containerStyle = {
